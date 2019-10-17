@@ -13,11 +13,12 @@ The tool is useful when you try to parse your test-cases written in DSL or in th
 
 ## type
 ### stringify
-for example,
+
+- example 1
 
 `python3 convert.py stringify "['abc','abc']"`
 
-result,
+- **result**
 
 `{"abc","abc"}`
 ### charify
